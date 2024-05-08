@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@izu_prb" target="blank"><img src="https://img.shields.io/twitter/follow/@izu_prb?logo=twitter&style=for-the-badge" alt="@izu_prb" /></a> </p>
 
-- 🔭 I’m currently working on **IJSE-As A Student**
+- 🔭 I’m currently working on **HOTCAT Technologies**
 
-- 🌱 I’m currently learning **Laravel/php**
+- 🌱 I’m currently learning **Laravel/PHP**
 
 - 💬 Ask me about **Java**
 
