@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **IJSE-As A Student**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Laravel/php**
 
 - 💬 Ask me about **Java**
 
